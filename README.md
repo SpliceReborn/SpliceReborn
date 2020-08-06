@@ -1,7 +1,7 @@
 ### Hi there, I'm Darren - aka [SpliceReborn][website] 👋
 
 ## I'm a Student!
-- 🔭 I’m currently working on my own webpage [VS Code Course][website]!
+- 🔭 I’m currently working on my own webpage [website]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: 
 
@@ -13,8 +13,6 @@
 
 <br />
 <br />
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 [website]: https://darrenseet.com
 [twitter]: https://twitter.com/SpliceReborn
