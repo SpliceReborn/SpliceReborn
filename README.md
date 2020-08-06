@@ -14,6 +14,6 @@
 <br />
 <br />
 
-[website]: https://darrenseet.com
+[website]: darrenseet.com
 [twitter]: https://twitter.com/SpliceReborn
 [youtube]: https://youtube.com/UChUPaeDHG446TWl3As0pQiQ
