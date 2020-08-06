@@ -1,7 +1,7 @@
 ### Hi there, I'm Darren - aka [SpliceReborn][website] 👋
 
 ## I'm a Student!
-- 🔭 I’m currently working on my own webpage [website]!
+- 🔭 I’m currently working on my own [webpage][website]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: 
 
