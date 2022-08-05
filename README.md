@@ -1,9 +1,8 @@
-### Hi there, I'm Darren - aka [SpliceReborn][website] 👋
+### Hi there, I'm Darren Seet 👋
 
-## I'm a Student!
+## I'm a Fresh Graduate from the University of Warwick
 - 🔭 I’m currently working on my own [webpage][website]!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: 
+- 🥅 2022 Goals: 
 
 ### Connect with me:
 
@@ -15,5 +14,3 @@
 <br />
 
 [website]: https://darrenseet.com
-[twitter]: https://twitter.com/SpliceReborn
-[youtube]: https://www.youtube.com/channel/UChUPaeDHG446TWl3As0pQiQ
