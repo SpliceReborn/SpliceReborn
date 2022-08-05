@@ -1,8 +1,12 @@
 ### Hi there, I'm Darren Seet 👋
 
-## I'm a Fresh Graduate from the University of Warwick
+## I'm a Computer Science fresh graduate from the University of Warwick
 - 🔭 I’m currently working on my own [webpage][website]!
-- 🥅 2022 Goals: 
+- 🥅 2022 Goals:
+  - Land a job! (by August)
+  - Finish reading Think Like a Programmer by V. Anton Spraul (by August)
+  - Finish Full Stack Open course by University of Helsinki (by September)
+  
 
 ### Connect with me:
 
