@@ -11,8 +11,10 @@
 ### Connect with me:
 
 [<img align="left" alt="SpliceReborn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="SpliceReborn" width="22px" src="https://img.icons8.com/color/48/FFFFFF/discord-logo.png"/>][discord]
 
 <br />
 <br />
 
 [website]: https://darrenseet.com
+[discord]: https://discordapp.com/users/241402859554340865/
